@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dashboard1wireframe-angular"
+    }
+  },
+  "defaultProject": "dashboard1wireframe-angular",
+  "cli": {
+    "analytics": "005cde56-e1cc-463c-b588-a4aec57adf51"
+  }
 }
